@@ -17,11 +17,10 @@
 
 a {
   font-weight: 500;
-  color: #696da5;
-  text-decoration: inherit;
+  color: #9ca2cb;
 }
 a:hover {
-  color: #535bf2;
+  color: #323681;
 }
 
 body {
@@ -64,7 +63,7 @@ button:focus-visible {
     background-color: #ffffff;
   }
   a:hover {
-    color: #747bff;
+    color: #242ba8;
   }
   button {
     background-color: #f9f9f9;
